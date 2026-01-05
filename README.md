@@ -119,6 +119,17 @@ http://127.0.0.1:8000/docs
 
 ---
 
+## 🌐 Live Demo
+
+The API is deployed and publicly accessible.
+
+- **Swagger Docs:** https://your-app-name.onrender.com/docs  
+- **Base URL:** https://your-app-name.onrender.com
+
+> ⚠️ Note: This service runs on a free hosting tier and may take a few seconds to wake up after inactivity.
+
+---
+
 ## 🛣️ Future Enhancements
 
 - Dynamic schema input
@@ -131,3 +142,4 @@ http://127.0.0.1:8000/docs
 ## 📌 Disclaimer
 
 This system is intentionally **read-only** and designed for SQL generation, not execution in production environments without additional safeguards.
+
