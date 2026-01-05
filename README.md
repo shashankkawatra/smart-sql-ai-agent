@@ -123,8 +123,7 @@ http://127.0.0.1:8000/docs
 
 The API is deployed and publicly accessible.
 
-- **Swagger Docs:** https://your-app-name.onrender.com/docs  
-- **Base URL:** https://your-app-name.onrender.com
+- **Swagger Docs:** https://smart-sql-ai-agent.onrender.com/docs
 
 > ⚠️ Note: This service runs on a free hosting tier and may take a few seconds to wake up after inactivity.
 
@@ -142,4 +141,5 @@ The API is deployed and publicly accessible.
 ## 📌 Disclaimer
 
 This system is intentionally **read-only** and designed for SQL generation, not execution in production environments without additional safeguards.
+
 
